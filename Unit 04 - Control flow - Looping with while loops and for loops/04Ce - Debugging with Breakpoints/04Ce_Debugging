@@ -1,0 +1,67 @@
+|>----------- line 12 -----------<|
+successfulAction: false
+food: 4198864
+location: ""
+health: 0
+day: 4203456
+choice: 0
+
+|>----------- line 27 -----------<|
+successfulAction: false
+food: 5
+location: "Overland Park"
+health: 20
+day: 1
+choice: 0
+
+|>----------- line 41 -----------<|
+heatlh: 20
+food: 5
+
+|>----------- line 47 -----------<|
+randomChance: 0
+
+Enters @ Line 48
+
+|>----------- line 50 -----------<|
+mod: 4
+
+|>----------- line 189 -----------<|
+health: 20
+food: 9
+
+||>>======================== Part 2 ========================<<||
+
+|>----------- line 12 -----------<|
+successfulAction: false
+food: 4198864
+location: ""
+health: 0
+day: 4203456
+choice: 0
+
+|>----------- line 27 -----------<|
+successfulAction: false
+food: 5
+location: "Overland Park"
+health: 20
+day: 1
+choice: 0
+
+|>----------- line 41 -----------<|
+heatlh: 20
+food: 5
+
+|>----------- line 47 -----------<|
+randomChance: 2
+
+Enters @ Line 61
+
+|>----------- line 50 -----------<|
+mod: 4
+
+|>----------- line 189 -----------<|
+health: 24
+food: 5
+
+
