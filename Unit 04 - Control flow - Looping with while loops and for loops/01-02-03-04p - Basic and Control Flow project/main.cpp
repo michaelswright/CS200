@@ -16,14 +16,12 @@ int main()
     float price = BASE_PRICE;
     int menuChoice;
     bool done = false;
+    cout << "PIZZA MAKER" << endl;
+    cout << endl;
+    cout << endl;
 
-    while (menuChoice != 6)
+    while (done != true)
     {
-
-        cout << "PIZZA MAKER" << endl;
-        cout << endl
-             << endl;
-
         cout << "Current pizza: " << pizza << endl;
         cout << "Price: $" << price << endl;
         cout << endl;
@@ -37,5 +35,34 @@ int main()
         cout << "6. Checkout" << endl;
         cout << ">> ";
         cin >> menuChoice;
+        cout << endl;
+
+        switch (menuChoice)
+        {
+        case 1:
+            cout << "SAUCES MENU" << endl;
+            break;
+        case 2:
+            cout << "Extra cheese added" << endl;
+            break;
+        case 3:
+            cout << "MEATS MENU" << endl;
+            break;
+        case 4:
+            cout << "VEGGIES MENU" << endl;
+            break;
+        case 5:
+            cout << "Pizza reset" << endl;
+            break;
+        case 6:
+            cout << "CHECKOUT" << endl;
+            done = true;
+            break;
+        default:
+            cout << "INVALID MENU OPTION" << endl;
+        }
+
+        cout << endl;
     }
+    return 0;
 }
