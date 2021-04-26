@@ -1,0 +1,132 @@
+########################################################################
+RECIPE_BEGIN
+
+TITLE
+Best Chocolate Chip Cookies
+
+SOURCE
+https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+cup
+INGREDIENT_NAME
+butter, softened
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+cup
+INGREDIENT_NAME
+white sugar
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+cup
+INGREDIENT_NAME
+packed brown sugar
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+-
+INGREDIENT_NAME
+eggs
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+2
+INGREDIENT_UNIT
+teaspoons
+INGREDIENT_NAME
+vanilla extract
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+teaspoon
+INGREDIENT_NAME
+baking soda
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+2
+INGREDIENT_UNIT
+teaspoons
+INGREDIENT_NAME
+hot water
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+0.5
+INGREDIENT_UNIT
+teaspoons
+INGREDIENT_NAME
+salt
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+3
+INGREDIENT_UNIT
+cups
+INGREDIENT_NAME
+all-purpose flour
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+2
+INGREDIENT_UNIT
+cups
+INGREDIENT_NAME
+semisweet chocolate chips
+INGREDIENT_END
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+cup
+INGREDIENT_NAME
+chopped walnuts
+INGREDIENT_END
+
+INSTRUCTIONS
+Preheat oven to 350 degrees F (175 degrees C). Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.
+
+RECIPE_END
+
+########################################################################
+RECIPE_BEGIN
+
+TITLE
+Butter
+
+INGREDIENT_BEGIN
+INGREDIENT_AMOUNT
+1
+INGREDIENT_UNIT
+stick
+INGREDIENT_NAME
+butter
+INGREDIENT_END
+
+INSTRUCTIONS
+Melt butter. Enjoy.
+
+RECIPE_END
